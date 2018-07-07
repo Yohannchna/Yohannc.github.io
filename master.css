@@ -191,6 +191,9 @@ footer p{
    .project-wrap{
     padding: 0 15px;
   }
+   .project{
+    margin: 0 auto;
+  }
   .card{
     margin-bottom: 50px;
   }
