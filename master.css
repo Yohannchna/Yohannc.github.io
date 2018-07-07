@@ -188,6 +188,9 @@ footer p{
   /* .edu,.work,.study{
     width:250px;
   } */
+   .project-wrap{
+    padding: 0 15px;
+  }
   .card{
     margin-bottom: 50px;
   }
